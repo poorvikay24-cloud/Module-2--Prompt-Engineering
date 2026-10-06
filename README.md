@@ -1,2 +1,2 @@
-# My-First-Project
-Engineering College 1st sem
+# Prompt Engineering
+Writing 10 prompts and their outputs respectively.
